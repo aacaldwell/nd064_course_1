@@ -30,4 +30,4 @@ jobs:
           file: ./project/Dockerfile
           platforms: linux/amd64
           push: true
-          tags: pyrrhus/techtrends:latest, pyrrhus/techtrends:1.2.1
+          tags: pyrrhus/techtrends:latest, pyrrhus/techtrends:0.0.3
